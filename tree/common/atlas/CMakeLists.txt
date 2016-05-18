@@ -9,6 +9,7 @@ set(SOURCE_FILES
     )
 
 include_directories(.)
+include_directories(..)
 
 add_library(${PROJECT_NAME} STATIC ${SOURCE_FILES})
 

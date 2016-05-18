@@ -1,6 +1,6 @@
-#include "hello.hpp"
+#include <greeting/hello.hpp>
 #include <atlas/world.hpp>
-#include "gtest/gtest.h"
+#include <gtest/gtest.h>
 
 TEST(helloTest, testHello)
 {

@@ -1,5 +1,5 @@
-#include "world.hpp"
-#include "gtest/gtest.h"
+#include <atlas/world.hpp>
+#include <gtest/gtest.h>
 
 TEST(worldTest, testName)
 {
