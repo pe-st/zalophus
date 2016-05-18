@@ -1,0 +1,2 @@
+# zalophus
+CLion stuff
